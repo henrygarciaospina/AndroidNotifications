@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "407810300915",
+    "project_id": "fcmnotifications-34429",
+    "storage_bucket": "fcmnotifications-34429.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:407810300915:android:1dd447e277a318926d9086",
+        "android_client_info": {
+          "package_name": "com.arksunexus.androidnotifications"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "407810300915-om2cdc1aien640c05lck1tg3pmf9joh0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3w8IUQ1rQCH5mRrCnjnGsYPHYnvh8N38"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "407810300915-om2cdc1aien640c05lck1tg3pmf9joh0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
